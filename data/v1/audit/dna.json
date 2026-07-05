@@ -1,8 +1,497 @@
 {
   "sursa": "DNA comunicate (dna.ro)",
-  "total": 8998,
-  "nume_distincte": 5136,
+  "total": 9040,
+  "nume_distincte": 5144,
   "data": [
+    {
+      "an": 2024,
+      "data": "13 martie 2024",
+      "nr": null,
+      "titlu": " – 30 iunie 2026. În cadrul proiectului au fost achiziționate stații de lucru, laptopuri, echipamente multifuncționale alb-negru și color, scanere multifuncțion",
+      "nume_extrase": [],
+      "id": 13831,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13831"
+    },
+    {
+      "an": null,
+      "data": null,
+      "nr": null,
+      "titlu": "if(window.PrimeFaces){PrimeFaces.settings.locale='ro';PrimeFaces.settings.viewId='/comunicat.xhtml';PrimeFaces.settings.contextPath='';PrimeFaces.settings.cooki",
+      "nume_extrase": [
+        "DIRECȚIA NAȚIONALĂ ANTICORUPȚIE",
+        "RO EN",
+        "ECLI ECLI",
+        "TRIBUNALUL BUCUREȘTI",
+        "PENALĂ SENTINȚA PENALĂ NR"
+      ],
+      "id": 13830,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13830"
+    },
+    {
+      "an": null,
+      "data": null,
+      "nr": null,
+      "titlu": "if(window.PrimeFaces){PrimeFaces.settings.locale='ro';PrimeFaces.settings.viewId='/comunicat.xhtml';PrimeFaces.settings.contextPath='';PrimeFaces.settings.cooki",
+      "nume_extrase": [
+        "DIRECȚIA NAȚIONALĂ ANTICORUPȚIE",
+        "RO EN",
+        "PARAFA ȘEFULUI INSTANȚEF",
+        "ECLI ECLI",
+        "ROMÂNIA TRIBUNALUL BUCUREȘTI",
+        "PENALĂ DOSAR",
+        "SENTINȚA PENALĂ NR",
+        "MINISTERUL PUBLIC"
+      ],
+      "id": 13829,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13829"
+    },
+    {
+      "an": null,
+      "data": null,
+      "nr": "391",
+      "titlu": "if(window.PrimeFaces){PrimeFaces.settings.locale='ro';PrimeFaces.settings.viewId='/comunicat.xhtml';PrimeFaces.settings.contextPath='';PrimeFaces.settings.cooki",
+      "nume_extrase": [
+        "DIRECȚIA NAȚIONALĂ ANTICORUPȚIE",
+        "RO EN",
+        "ECLI ECLI",
+        "ROMÂNIA TRIBUNALUL BUCUREȘTI",
+        "SECȚIA PENALĂ",
+        "SENTINȚA PENALĂ NR"
+      ],
+      "id": 13828,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13828"
+    },
+    {
+      "an": null,
+      "data": null,
+      "nr": null,
+      "titlu": "if(window.PrimeFaces){PrimeFaces.settings.locale='ro';PrimeFaces.settings.viewId='/comunicat.xhtml';PrimeFaces.settings.contextPath='';PrimeFaces.settings.cooki",
+      "nume_extrase": [
+        "DIRECȚIA NAȚIONALĂ ANTICORUPȚIE",
+        "RO EN",
+        "ECLI ECLI",
+        "ROMÂNIA TRIBUNALUL COVASNA SECȚIA",
+        "SENTINȚA PENALĂ NR"
+      ],
+      "id": 13827,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13827"
+    },
+    {
+      "an": 2026,
+      "data": "29 iunie 2026",
+      "nr": "478/I-36",
+      "titlu": " Nr. 478/I-36 COMUNICAT La data de 28 iunie 2026, judecătorul de drepturi și libertăți din cadrul Tribunalului București a admis propunerea de arestare preventi",
+      "nume_extrase": [
+        "ANGHEL PETRE-DANIEL",
+        "BIROUL DE INFORMARE ȘI",
+        "RELAȚII PUBLICE"
+      ],
+      "id": 13826,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13826"
+    },
+    {
+      "an": 2026,
+      "data": "23 iunie 2026",
+      "nr": "474/I-36",
+      "titlu": " Nr. 474/I-36 COMUNICAT În cauza mediatizată prin comunicatul nr. 258/I-36 din data de 30 aprilie 2026 , procurorii din cadrul Direcției Naționale Anticorupție ",
+      "nume_extrase": [
+        "GEORGESCU IULIAN ALEXANDRU"
+      ],
+      "id": 13825,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13825"
+    },
+    {
+      "an": 2026,
+      "data": "22 iunie 2026",
+      "nr": "472/I-36",
+      "titlu": " Nr. 472/I-36 COMUNICAT În cauza mediatizată prin comunicatul nr. 20/I-36 din data de 23 ianuarie 2026 , procurorii din cadrul Direcției Naționale Anticorupție ",
+      "nume_extrase": [
+        "PĂUNE LAVINIA-DANIELA"
+      ],
+      "id": 13824,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13824"
+    },
+    {
+      "an": null,
+      "data": null,
+      "nr": null,
+      "titlu": "if(window.PrimeFaces){PrimeFaces.settings.locale='ro';PrimeFaces.settings.viewId='/comunicat.xhtml';PrimeFaces.settings.contextPath='';PrimeFaces.settings.cooki",
+      "nume_extrase": [
+        "DIRECȚIA NAȚIONALĂ ANTICORUPȚIE",
+        "RO EN"
+      ],
+      "id": 13823,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13823"
+    },
+    {
+      "an": 2026,
+      "data": "19 iunie 2026",
+      "nr": "470/I-36",
+      "titlu": " Nr. 470/I-36 COMUNICAT Procurorii din cadrul Direcției Naționale Anticorupție – Serviciul teritorial Timișoara au dispus punerea în mișcare a acțiunii penale ș",
+      "nume_extrase": [
+        "ROȘU MARCEL",
+        "CIOBAN GHEORGHE",
+        "PAVEN MARIN-CASIAN",
+        "ARDELEAN ANCUȚA-MARIA"
+      ],
+      "id": 13822,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13822"
+    },
+    {
+      "an": 2026,
+      "data": "18 iunie 2026",
+      "nr": "468/I-36",
+      "titlu": " Nr. 468/I-36 COMUNICAT La data de 17 iunie 2026, judecătorul de drepturi și libertăți din cadrul Tribunalului București a admis propunerea de arestare preventi",
+      "nume_extrase": [],
+      "id": 13821,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13821"
+    },
+    {
+      "an": 2026,
+      "data": "18 iunie 2026",
+      "nr": "466/I-36",
+      "titlu": " Nr. 466/I-36 COMUNICAT Procurorul-șef al Direcției Naționale Anticorupție, domnul Ioan-Viorel Cerbu, a primit joi, 18 iunie 2026, vizita unei delegații a Minis",
+      "nume_extrase": [
+        "BIROUL DE INFORMARE ȘI",
+        "RELAȚII PUBLICE"
+      ],
+      "id": 13820,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13820"
+    },
+    {
+      "an": null,
+      "data": null,
+      "nr": null,
+      "titlu": "if(window.PrimeFaces){PrimeFaces.settings.locale='ro';PrimeFaces.settings.viewId='/comunicat.xhtml';PrimeFaces.settings.contextPath='';PrimeFaces.settings.cooki",
+      "nume_extrase": [
+        "DIRECȚIA NAȚIONALĂ ANTICORUPȚIE",
+        "RO EN"
+      ],
+      "id": 13819,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13819"
+    },
+    {
+      "an": null,
+      "data": null,
+      "nr": null,
+      "titlu": "if(window.PrimeFaces){PrimeFaces.settings.locale='ro';PrimeFaces.settings.viewId='/comunicat.xhtml';PrimeFaces.settings.contextPath='';PrimeFaces.settings.cooki",
+      "nume_extrase": [
+        "DIRECȚIA NAȚIONALĂ ANTICORUPȚIE",
+        "RO EN"
+      ],
+      "id": 13818,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13818"
+    },
+    {
+      "an": 2025,
+      "data": "19 august 2025",
+      "nr": null,
+      "titlu": " de INEC București, ca urmare a admiterii acestei probe solicitată în apărare de inculpat, prin apărător, din care rezultă ca semnătura la poziția “ Semnătura t",
+      "nume_extrase": [],
+      "id": 13817,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13817"
+    },
+    {
+      "an": 2026,
+      "data": "17 iunie 2026",
+      "nr": "432/I-36",
+      "titlu": " Nr. 432/I-36 COMUNICAT În continuarea comunicatului nr. 430/I-36 din 16 iunie 2026 , vă aducem la cunoștință faptul că procurorii din cadrul Direcției Național",
+      "nume_extrase": [],
+      "id": 13816,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13816"
+    },
+    {
+      "an": null,
+      "data": null,
+      "nr": null,
+      "titlu": "if(window.PrimeFaces){PrimeFaces.settings.locale='ro';PrimeFaces.settings.viewId='/comunicat.xhtml';PrimeFaces.settings.contextPath='';PrimeFaces.settings.cooki",
+      "nume_extrase": [
+        "DIRECȚIA NAȚIONALĂ ANTICORUPȚIE",
+        "RO EN",
+        "DOBRESCU MIHAELA"
+      ],
+      "id": 13815,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13815"
+    },
+    {
+      "an": 2026,
+      "data": "16 iunie 2026",
+      "nr": "430/I-36",
+      "titlu": " Nr. 430/I-36 COMUNICAT Ca răspuns la solicitările formulate de reprezentanți ai mass-media, Biroul de Informare și Relații Publice este abilitat să transmită u",
+      "nume_extrase": [
+        "BIROUL DE INFORMARE ȘI",
+        "RELAȚII PUBLICE"
+      ],
+      "id": 13814,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13814"
+    },
+    {
+      "an": 2025,
+      "data": "22 decembrie 2025",
+      "nr": null,
+      "titlu": ", vezi comunicatul 96/I-36 din 17 februarie 2026. BIROUL DE INFORMARE ȘI RELAȚII PUBLICE Text neoficial, destinat mass media, care nu angajează răspunderea inst",
+      "nume_extrase": [
+        "BIROUL DE INFORMARE ȘI",
+        "RELAȚII PUBLICE"
+      ],
+      "id": 13813,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13813"
+    },
+    {
+      "an": 2023,
+      "data": "25 mai 2023",
+      "nr": null,
+      "titlu": ", vezi comunicatul nr. 642/VIII/3 din data de 08 iunie 2023 (comunicatul nr. 6). BIROUL DE INFORMARE ȘI RELAȚII PUBLICE Text neoficial, destinat mass media, car",
+      "nume_extrase": [
+        "BIROUL DE INFORMARE ȘI",
+        "RELAȚII PUBLICE"
+      ],
+      "id": 13812,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13812"
+    },
+    {
+      "an": 2026,
+      "data": "12 februarie 2026",
+      "nr": null,
+      "titlu": ", vezi comunicatul nr. 96/I-36 din data de 17 februarie 2026. BIROUL DE INFORMARE ȘI RELAȚII PUBLICE Text neoficial, destinat mass media, care nu angajează răsp",
+      "nume_extrase": [
+        "BIROUL DE INFORMARE ȘI",
+        "RELAȚII PUBLICE"
+      ],
+      "id": 13811,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13811"
+    },
+    {
+      "an": 2025,
+      "data": "19 decembrie 2025",
+      "nr": null,
+      "titlu": ", vezi comunicatul nr. 8/I-36 din data de 15 ianuarie 2026. BIROUL DE INFORMARE ȘI RELAȚII PUBLICE Text neoficial, destinat mass media, care nu angajează răspun",
+      "nume_extrase": [
+        "BIROUL DE INFORMARE ȘI",
+        "RELAȚII PUBLICE"
+      ],
+      "id": 13810,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13810"
+    },
+    {
+      "an": 2026,
+      "data": "06 martie 2026",
+      "nr": null,
+      "titlu": ", vezi comunicatul nr. 232/I-36 din data de 09 aprilie 2026 (comunicatul nr.2). BIROUL DE INFORMARE ȘI RELAȚII PUBLICE Text neoficial, destinat mass media, care",
+      "nume_extrase": [
+        "BIROUL DE INFORMARE ȘI",
+        "RELAȚII PUBLICE"
+      ],
+      "id": 13809,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13809"
+    },
+    {
+      "an": 2025,
+      "data": "18 decembrie 2025",
+      "nr": null,
+      "titlu": ", vezi comunicatul 770/VIII/3 din 14 noiembrie 2025 (comunicatul nr.1). BIROUL DE INFORMARE ȘI RELAȚII PUBLICE Text neoficial, destinat mass media, care nu anga",
+      "nume_extrase": [
+        "BIROUL DE INFORMARE ȘI",
+        "RELAȚII PUBLICE"
+      ],
+      "id": 13808,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13808"
+    },
+    {
+      "an": 2026,
+      "data": "12 ianuarie 2026",
+      "nr": null,
+      "titlu": ", vezi comunicatul nr. 12/I-36 din data de 16 ianuarie 2026. BIROUL DE INFORMARE ȘI RELAȚII PUBLICE Text neoficial, destinat mass media, care nu angajează răspu",
+      "nume_extrase": [
+        "BIROUL DE INFORMARE ȘI",
+        "RELAȚII PUBLICE"
+      ],
+      "id": 13807,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13807"
+    },
+    {
+      "an": 2025,
+      "data": "21 octombrie 2025",
+      "nr": null,
+      "titlu": ", vezi comunicatul nr. 770/VIII/3 din data de 14 noiembrie 2025. BIROUL DE INFORMARE ȘI RELAȚII PUBLICE Text neoficial, destinat mass media, care nu angajează r",
+      "nume_extrase": [
+        "BIROUL DE INFORMARE ȘI",
+        "RELAȚII PUBLICE"
+      ],
+      "id": 13806,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13806"
+    },
+    {
+      "an": 2025,
+      "data": "19 decembrie 2025",
+      "nr": null,
+      "titlu": ", vezi comunicatul nr. 8/I-36 din data de 15 ianuarie 2026. BIROUL DE INFORMARE ȘI RELAȚII PUBLICE Text neoficial, destinat mass media, care nu angajează răspun",
+      "nume_extrase": [
+        "BIROUL DE INFORMARE ȘI",
+        "RELAȚII PUBLICE"
+      ],
+      "id": 13805,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13805"
+    },
+    {
+      "an": 2024,
+      "data": "27 august 2024",
+      "nr": null,
+      "titlu": ", vezi comunicatul nr. 666/VIII/3 din data de 09 septembrie 2024. BIROUL DE INFORMARE ȘI RELAȚII PUBLICE Text neoficial, destinat mass media, care nu angajează ",
+      "nume_extrase": [
+        "BIROUL DE INFORMARE ȘI",
+        "RELAȚII PUBLICE"
+      ],
+      "id": 13804,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13804"
+    },
+    {
+      "an": 2025,
+      "data": "05 mai 2025",
+      "nr": null,
+      "titlu": ", vezi comunicatul nr. 320/VIII/3 din data de 06 mai 2025. BIROUL DE INFORMARE ȘI RELAȚII PUBLICE Text neoficial, destinat mass media, care nu angajează răspund",
+      "nume_extrase": [
+        "BIROUL DE INFORMARE ȘI",
+        "RELAȚII PUBLICE"
+      ],
+      "id": 13803,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13803"
+    },
+    {
+      "an": 2023,
+      "data": "21 martie 2023",
+      "nr": null,
+      "titlu": ", vezi comunicatul nr. 380/VIII/3 din data de 06 aprilie 2023 (comunicatul nr. 5). BIROUL DE INFORMARE ȘI RELAȚII PUBLICE Text neoficial, destinat mass media, c",
+      "nume_extrase": [
+        "BIROUL DE INFORMARE ȘI",
+        "RELAȚII PUBLICE"
+      ],
+      "id": 13802,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13802"
+    },
+    {
+      "an": 2023,
+      "data": "23 mai 2023",
+      "nr": null,
+      "titlu": ", vezi comunicatul nr. 608/VIII/3 din data de 24 mai 2023. BIROUL DE INFORMARE ȘI RELAȚII PUBLICE Text neoficial, destinat mass media, care nu angajează răspund",
+      "nume_extrase": [
+        "BIROUL DE INFORMARE ȘI",
+        "RELAȚII PUBLICE"
+      ],
+      "id": 13801,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13801"
+    },
+    {
+      "an": 2016,
+      "data": "15 iunie 2016",
+      "nr": "386/2026",
+      "titlu": "; Decizia nr.392/ 6 iunie 2017; Decizia nr.283/17 mai 2023). Atribuțiile judecătorului implică identificarea normei aplicabile, analiza conținutului său și o ne",
+      "nume_extrase": [],
+      "id": 13800,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13800"
+    },
+    {
+      "an": 2005,
+      "data": "8 decembrie 2005",
+      "nr": null,
+      "titlu": "), în sensul identificării unei anvelope grav deteriorate sau cu tăieturi. Această abatere reprezenta o încălcare gravă a prevederilor Regulamentului (CE) nr. 1",
+      "nume_extrase": [],
+      "id": 13799,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13799"
+    },
+    {
+      "an": null,
+      "data": null,
+      "nr": null,
+      "titlu": "if(window.PrimeFaces){PrimeFaces.settings.locale='ro';PrimeFaces.settings.viewId='/comunicat.xhtml';PrimeFaces.settings.contextPath='';PrimeFaces.settings.cooki",
+      "nume_extrase": [
+        "DIRECȚIA NAȚIONALĂ ANTICORUPȚIE",
+        "RO EN",
+        "ECLI ECLI",
+        "ROMÂNIA TRIBUNALUL BACĂU SECȚIA",
+        "PENALĂ SENTINȚĂ PENALĂ NR"
+      ],
+      "id": 13798,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13798"
+    },
+    {
+      "an": 2006,
+      "data": "11 iulie 2006",
+      "nr": "382/2026",
+      "titlu": " de stabilire a unor dispoziții generale privind Fondul European de Dezvoltare Regională, Fondul Social European și Fondul de Coeziune și de abrogare a Regulame",
+      "nume_extrase": [],
+      "id": 13797,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13797"
+    },
+    {
+      "an": null,
+      "data": null,
+      "nr": null,
+      "titlu": "if(window.PrimeFaces){PrimeFaces.settings.locale='ro';PrimeFaces.settings.viewId='/comunicat.xhtml';PrimeFaces.settings.contextPath='';PrimeFaces.settings.cooki",
+      "nume_extrase": [
+        "DIRECȚIA NAȚIONALĂ ANTICORUPȚIE",
+        "RO EN",
+        "EFICIENȚĂ ECLI",
+        "ROMÂNIA TRIBUNALUL ARAD SECȚIA",
+        "SENTINȚA PENALĂ NR"
+      ],
+      "id": 13796,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13796"
+    },
+    {
+      "an": 2026,
+      "data": "12 iunie 2026",
+      "nr": "422/I-36",
+      "titlu": " Nr. 422/I-36 COMUNICAT În cauza mediatizată prin comunicatul nr. 386/I-36 din data de 11 iunie 2026 , procurorii din cadrul Direcției Naționale Anticorupție - ",
+      "nume_extrase": [],
+      "id": 13795,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13795"
+    },
+    {
+      "an": 2026,
+      "data": "27 martie 2026",
+      "nr": null,
+      "titlu": " Completul constituit din: Judecător: (...) Grefier: (...) La judecarea cauzei a participat procuror (...) din cadrul Parchetului de pe lângă Înalta Curte de Ca",
+      "nume_extrase": [],
+      "id": 13794,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13794"
+    },
+    {
+      "an": 2026,
+      "data": "09 aprilie 2026",
+      "nr": null,
+      "titlu": " PRESEDINTE: (...) GREFIER: (...) Pe rol se află soluționarea cauzei privind acordul de recunoaștere a vinovăției, prev de art. 478 si urm Cod de procedura pena",
+      "nume_extrase": [],
+      "id": 13793,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13793"
+    },
+    {
+      "an": 2026,
+      "data": "27 martie 2026",
+      "nr": null,
+      "titlu": " Președinte: (...) Grefier: (...) S-a luat în examinare în vederea pronunțării , sesizarea cu acordul de recunoaștere a vinovăției nr. 86/18/P/2024 al Parchetul",
+      "nume_extrase": [],
+      "id": 13792,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13792"
+    },
+    {
+      "an": 2026,
+      "data": "27 martie 2026",
+      "nr": null,
+      "titlu": " Președinte: (...) Grefier: (...) S-a luat în examinare în vederea pronunțării , sesizarea cu acordul de recunoaștere a vinovăției nr. 86/18/P/2024 al Parchetul",
+      "nume_extrase": [],
+      "id": 13791,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13791"
+    },
+    {
+      "an": 2026,
+      "data": "25 februarie 2026",
+      "nr": null,
+      "titlu": " Completul compus din: (...) - Președinte (...) - Judecător (...) - Judecător &nbsp; Magistrat-asistent – (...) &nbsp; (...) &nbsp; Grefier – (...) Ministerul P",
+      "nume_extrase": [],
+      "id": 13790,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=13790"
+    },
     {
       "an": 2026,
       "data": "11 iunie 2026",

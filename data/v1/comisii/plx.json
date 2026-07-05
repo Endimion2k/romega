@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-21T19:27:00.997722+00:00",
-  "total": 1920,
-  "total_documente": 21209,
+  "generated_at": "2026-07-05T18:23:20.927708+00:00",
+  "total": 1940,
+  "total_documente": 21400,
   "plx": [
     {
       "titlu": "PL nr. 201/1997",
@@ -9220,6 +9220,71 @@
         }
       ],
       "idp": "19878",
+      "camera": 2
+    },
+    {
+      "titlu": "Pl-x nr. 338/2022",
+      "numar": 338,
+      "an": 2022,
+      "documente": [
+        {
+          "tip": "expunere_motive",
+          "url": "https://www.cdep.ro/proiecte/2022/300/30/8/em411.pdf"
+        },
+        {
+          "tip": "forma_initiator",
+          "url": "https://www.cdep.ro/proiecte/2022/300/30/8/pl411.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2022/300/30/8/ces411.pdf"
+        },
+        {
+          "tip": "aviz_consiliu_legislativ",
+          "url": "https://www.cdep.ro/proiecte/2022/300/30/8/cl411.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2022/300/30/8/opf411.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2022/300/30/8/consconc411.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2022/300/30/8/in146.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2022/300/30/8/as338.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2022/300/30/8/in411.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av338.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/economica/pdf/2022/av338.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/egalitatea_de_sanse/pdf/2022/av338.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2022/300/30/8/pvg338_2022.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/juridica/pdf/2022/av338.pdf"
+        }
+      ],
+      "idp": "19880",
       "camera": 2
     },
     {
@@ -63574,6 +63639,55 @@
       "camera": 2
     },
     {
+      "titlu": "PL-x nr. 69/2025",
+      "numar": 69,
+      "an": 2025,
+      "documente": [
+        {
+          "tip": "expunere_motive",
+          "url": "https://www.cdep.ro/proiecte/2025/000/60/9/em55.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2025/000/60/9/og55.pdf"
+        },
+        {
+          "tip": "aviz_consiliu_legislativ",
+          "url": "https://www.cdep.ro/proiecte/2025/000/60/9/cl55.pdf"
+        },
+        {
+          "tip": "sesizare",
+          "url": "https://www.cdep.ro/proiecte/2025/000/60/9/se55.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2025/000/60/9/as69.pdf"
+        },
+        {
+          "tip": "punct_vedere_guvern",
+          "url": "https://www.cdep.ro/proiecte/2025/000/60/9/gv55.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/aparare/pdf/2025/av069.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/juridica/pdf/2025/av069.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/administratie/pdf/2025/av069.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/industrii/pdf/2025/av069.pdf"
+        }
+      ],
+      "idp": "22255",
+      "camera": 2
+    },
+    {
       "titlu": "PL-x nr. 76/2025",
       "numar": 76,
       "an": 2025,
@@ -92665,6 +92779,55 @@
       "camera": 2
     },
     {
+      "titlu": "Pl-x nr. 111/2026",
+      "numar": 111,
+      "an": 2026,
+      "documente": [
+        {
+          "tip": "expunere_motive",
+          "url": "https://www.cdep.ro/proiecte/2026/100/10/1/em122.pdf"
+        },
+        {
+          "tip": "forma_initiator",
+          "url": "https://www.cdep.ro/proiecte/2026/100/10/1/pl122.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/100/10/1/ces122.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/100/10/1/ANFP122.pdf"
+        },
+        {
+          "tip": "aviz_consiliu_legislativ",
+          "url": "https://www.cdep.ro/proiecte/2026/100/10/1/cl122.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/100/10/1/OpConsFisc122.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/100/10/1/as111.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/100/10/1/in122.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2026/av111.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/100/10/1/pvg111_2026.pdf"
+        }
+      ],
+      "idp": "23020",
+      "camera": 2
+    },
+    {
       "titlu": "Pl-x nr. 112/2026",
       "numar": 112,
       "an": 2026,
@@ -97609,6 +97772,55 @@
       "camera": 2
     },
     {
+      "titlu": "Pl-x nr. 279/2026",
+      "numar": 279,
+      "an": 2026,
+      "documente": [
+        {
+          "tip": "expunere_motive",
+          "url": "https://www.cdep.ro/proiecte/2026/200/70/9/em298.pdf"
+        },
+        {
+          "tip": "forma_initiator",
+          "url": "https://www.cdep.ro/proiecte/2026/200/70/9/pl298.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/200/70/9/ces298.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/200/70/9/opcfisc298.pdf"
+        },
+        {
+          "tip": "aviz_consiliu_legislativ",
+          "url": "https://www.cdep.ro/proiecte/2026/200/70/9/cl298.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/200/70/9/pvg298.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/200/70/9/as279.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/200/70/9/in298.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2026/av279.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/juridica/pdf/2026/av279.pdf"
+        }
+      ],
+      "idp": "23160",
+      "camera": 2
+    },
+    {
       "titlu": "Pl-x nr. 276/2026",
       "numar": 276,
       "an": 2026,
@@ -98313,6 +98525,51 @@
         }
       ],
       "idp": "23183",
+      "camera": 2
+    },
+    {
+      "titlu": "Pl-x nr. 476/2026",
+      "numar": 476,
+      "an": 2026,
+      "documente": [
+        {
+          "tip": "expunere_motive",
+          "url": "https://www.cdep.ro/proiecte/2026/400/70/6/em523.pdf"
+        },
+        {
+          "tip": "forma_initiator",
+          "url": "https://www.cdep.ro/proiecte/2026/400/70/6/pl523.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/70/6/ces523.pdf"
+        },
+        {
+          "tip": "aviz_consiliu_legislativ",
+          "url": "https://www.cdep.ro/proiecte/2026/400/70/6/cl523.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/70/6/in318.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/70/6/as476.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/70/6/in523.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2026/av476.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/juridica/pdf/2026/av476.pdf"
+        }
+      ],
+      "idp": "23187",
       "camera": 2
     },
     {
@@ -101042,6 +101299,51 @@
       "camera": 2
     },
     {
+      "titlu": "Pl-x nr. 394/2026",
+      "numar": 394,
+      "an": 2026,
+      "documente": [
+        {
+          "tip": "expunere_motive",
+          "url": "https://www.cdep.ro/proiecte/2026/300/90/4/em429.pdf"
+        },
+        {
+          "tip": "forma_initiator",
+          "url": "https://www.cdep.ro/proiecte/2026/300/90/4/pl429.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/300/90/4/in394.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/300/90/4/ces%20394_2026.pdf"
+        },
+        {
+          "tip": "aviz_consiliu_legislativ",
+          "url": "https://www.cdep.ro/proiecte/2026/300/90/4/cl394.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2026/av394.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/sanatate/pdf/2026/av394.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/munca/pdf/2026/av394.pdf"
+        },
+        {
+          "tip": "raport",
+          "url": "https://www.cdep.ro/comisii/invatamant/pdf/2026/rp394.pdf"
+        }
+      ],
+      "idp": "23265",
+      "camera": 2
+    },
+    {
       "titlu": "PL-x nr. 397/2026",
       "numar": 397,
       "an": 2026,
@@ -101170,6 +101472,51 @@
         }
       ],
       "idp": "23276",
+      "camera": 2
+    },
+    {
+      "titlu": "PL-x nr. 407/2026",
+      "numar": 407,
+      "an": 2026,
+      "documente": [
+        {
+          "tip": "expunere_motive",
+          "url": "https://www.cdep.ro/proiecte/2026/400/00/7/em442.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/00/7/comp442.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/00/7/oug442.pdf"
+        },
+        {
+          "tip": "aviz_consiliu_legislativ",
+          "url": "https://www.cdep.ro/proiecte/2026/400/00/7/cl442.pdf"
+        },
+        {
+          "tip": "sesizare",
+          "url": "https://www.cdep.ro/proiecte/2026/400/00/7/se442.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/00/7/as407.pdf"
+        },
+        {
+          "tip": "punct_vedere_guvern",
+          "url": "https://www.cdep.ro/proiecte/2026/400/00/7/gv442.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/munca/pdf/2026/av407.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/politica_externa/pdf/2026/av407.pdf"
+        }
+      ],
+      "idp": "23277",
       "camera": 2
     },
     {
@@ -101984,6 +102331,39 @@
       "camera": 2
     },
     {
+      "titlu": "PL-x nr. 449/2026",
+      "numar": 449,
+      "an": 2026,
+      "documente": [
+        {
+          "tip": "expunere_motive",
+          "url": "https://www.cdep.ro/proiecte/2026/400/40/9/em493.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/40/9/ces493.pdf"
+        },
+        {
+          "tip": "aviz_consiliu_legislativ",
+          "url": "https://www.cdep.ro/proiecte/2026/400/40/9/cl493.pdf"
+        },
+        {
+          "tip": "sesizare",
+          "url": "https://www.cdep.ro/proiecte/2026/400/40/9/se493.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/40/9/as449.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/juridica/pdf/2026/av449.pdf"
+        }
+      ],
+      "idp": "23321",
+      "camera": 2
+    },
+    {
       "titlu": "PL-x nr. 446/2026",
       "numar": 446,
       "an": 2026,
@@ -102022,6 +102402,255 @@
         }
       ],
       "idp": "23322",
+      "camera": 2
+    },
+    {
+      "titlu": "Pl-x nr. 454/2026",
+      "numar": 454,
+      "an": 2026,
+      "documente": [
+        {
+          "tip": "expunere_motive",
+          "url": "https://www.cdep.ro/proiecte/2026/400/50/4/em498.pdf"
+        },
+        {
+          "tip": "forma_initiator",
+          "url": "https://www.cdep.ro/proiecte/2026/400/50/4/pl498.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/50/4/ces498.pdf"
+        },
+        {
+          "tip": "aviz_consiliu_legislativ",
+          "url": "https://www.cdep.ro/proiecte/2026/400/50/4/cl498.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/50/4/as454.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/50/4/in498.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2026/av454.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/50/4/pvg454_2026.pdf"
+        },
+        {
+          "tip": "raport",
+          "url": "https://www.cdep.ro/comisii/juridica/pdf/2026/rp454.pdf"
+        }
+      ],
+      "idp": "23326",
+      "camera": 2
+    },
+    {
+      "titlu": "Pl-x nr. 461/2026",
+      "numar": 461,
+      "an": 2026,
+      "documente": [
+        {
+          "tip": "expunere_motive",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/1/em508.pdf"
+        },
+        {
+          "tip": "forma_initiator",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/1/pl508.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/1/opcfisc508.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/1/ces508.pdf"
+        },
+        {
+          "tip": "aviz_consiliu_legislativ",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/1/cl508.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/1/as461.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/1/in508.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/munca/pdf/2026/av461.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/juridica/pdf/2026/av461.pdf"
+        },
+        {
+          "tip": "raport",
+          "url": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2026/rp461.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/invatamant/pdf/2026/av461.pdf"
+        }
+      ],
+      "idp": "23332",
+      "camera": 2
+    },
+    {
+      "titlu": "Pl-x nr. 462/2026",
+      "numar": 462,
+      "an": 2026,
+      "documente": [
+        {
+          "tip": "expunere_motive",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/2/em509.pdf"
+        },
+        {
+          "tip": "forma_initiator",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/2/pl509.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/2/opcfisc509.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/2/ces509.pdf"
+        },
+        {
+          "tip": "aviz_consiliu_legislativ",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/2/cl509.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/2/as462.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/2/in509.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/munca/pdf/2026/av462.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/stiinta/pdf/2026/av462.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/juridica/pdf/2026/av462.pdf"
+        },
+        {
+          "tip": "raport",
+          "url": "https://www.cdep.ro/comisii/invatamant/pdf/2026/rp462.pdf"
+        }
+      ],
+      "idp": "23333",
+      "camera": 2
+    },
+    {
+      "titlu": "Pl-x nr. 464/2026",
+      "numar": 464,
+      "an": 2026,
+      "documente": [
+        {
+          "tip": "expunere_motive",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/4/em511.pdf"
+        },
+        {
+          "tip": "forma_initiator",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/4/pl511.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/4/opcfisc511.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/4/ces511.pdf"
+        },
+        {
+          "tip": "aviz_consiliu_legislativ",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/4/cl511.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/4/as464.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/4/in511.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/munca/pdf/2026/av464.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/juridica/pdf/2026/av464.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/invatamant/pdf/2026/av464.pdf"
+        }
+      ],
+      "idp": "23335",
+      "camera": 2
+    },
+    {
+      "titlu": "Pl-x nr. 465/2026",
+      "numar": 465,
+      "an": 2026,
+      "documente": [
+        {
+          "tip": "expunere_motive",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/5/em512.pdf"
+        },
+        {
+          "tip": "forma_initiator",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/5/pl512.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/5/opcfisc512.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/5/ces512.pdf"
+        },
+        {
+          "tip": "aviz_consiliu_legislativ",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/5/cl512.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/5/as465.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/60/5/in512.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/munca/pdf/2026/av465.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2026/av465.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/juridica/pdf/2026/av465.pdf"
+        }
+      ],
+      "idp": "23336",
       "camera": 2
     },
     {
@@ -102091,6 +102720,129 @@
       "camera": 2
     },
     {
+      "titlu": "PL-x nr. 472/2026",
+      "numar": 472,
+      "an": 2026,
+      "documente": [
+        {
+          "tip": "expunere_motive",
+          "url": "https://www.cdep.ro/proiecte/2026/400/70/2/em516.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/70/2/ces516.pdf"
+        },
+        {
+          "tip": "aviz_consiliu_legislativ",
+          "url": "https://www.cdep.ro/proiecte/2026/400/70/2/cl516.pdf"
+        },
+        {
+          "tip": "sesizare",
+          "url": "https://www.cdep.ro/proiecte/2026/400/70/2/se516.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/70/2/as472.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/juridica/pdf/2026/av472.pdf"
+        }
+      ],
+      "idp": "23339",
+      "camera": 2
+    },
+    {
+      "titlu": "Pl-x nr. 475/2026",
+      "numar": 475,
+      "an": 2026,
+      "documente": [
+        {
+          "tip": "expunere_motive",
+          "url": "https://www.cdep.ro/proiecte/2026/400/70/5/em522.pdf"
+        },
+        {
+          "tip": "forma_initiator",
+          "url": "https://www.cdep.ro/proiecte/2026/400/70/5/pl522.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/70/5/opcfisc522.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/70/5/ces522.pdf"
+        },
+        {
+          "tip": "aviz_consiliu_legislativ",
+          "url": "https://www.cdep.ro/proiecte/2026/400/70/5/cl522.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/70/5/as475.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/70/5/in522.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2026/av475.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/juridica/pdf/2026/av475.pdf"
+        }
+      ],
+      "idp": "23340",
+      "camera": 2
+    },
+    {
+      "titlu": "Pl-x nr. 477/2026",
+      "numar": 477,
+      "an": 2026,
+      "documente": [
+        {
+          "tip": "expunere_motive",
+          "url": "https://www.cdep.ro/proiecte/2026/400/70/7/em525.pdf"
+        },
+        {
+          "tip": "forma_initiator",
+          "url": "https://www.cdep.ro/proiecte/2026/400/70/7/pl525.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/70/7/opcfisc525.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/70/7/ces525.pdf"
+        },
+        {
+          "tip": "aviz_consiliu_legislativ",
+          "url": "https://www.cdep.ro/proiecte/2026/400/70/7/cl525.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/70/7/as477.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/70/7/in525.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2026/av477.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/juridica/pdf/2026/av477.pdf"
+        }
+      ],
+      "idp": "23343",
+      "camera": 2
+    },
+    {
       "titlu": "PL-x nr. 473/2026",
       "numar": 473,
       "an": 2026,
@@ -102117,6 +102869,198 @@
         }
       ],
       "idp": "23344",
+      "camera": 2
+    },
+    {
+      "titlu": "PL-x nr. 482/2026",
+      "numar": 482,
+      "an": 2026,
+      "documente": [
+        {
+          "tip": "expunere_motive",
+          "url": "https://www.cdep.ro/proiecte/2026/400/80/2/em537.pdf"
+        },
+        {
+          "tip": "aviz_csm",
+          "url": "https://www.cdep.ro/proiecte/2026/400/80/2/csm537.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/80/2/ces537.pdf"
+        },
+        {
+          "tip": "aviz_consiliu_legislativ",
+          "url": "https://www.cdep.ro/proiecte/2026/400/80/2/cl537.pdf"
+        },
+        {
+          "tip": "sesizare",
+          "url": "https://www.cdep.ro/proiecte/2026/400/80/2/se537.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/80/2/as482.pdf"
+        },
+        {
+          "tip": "aviz_comisie",
+          "url": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2026/av482.pdf"
+        },
+        {
+          "tip": "raport",
+          "url": "https://www.cdep.ro/comisii/juridica/pdf/2026/rp482.pdf"
+        }
+      ],
+      "idp": "23370",
+      "camera": 2
+    },
+    {
+      "titlu": "PL-x nr. 490/2026",
+      "numar": 490,
+      "an": 2026,
+      "documente": [
+        {
+          "tip": "expunere_motive",
+          "url": "https://www.cdep.ro/proiecte/2026/400/90/0/em553.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/90/0/ancom553.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/90/0/cconc553.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/90/0/opcfisc553.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/90/0/ces553.pdf"
+        },
+        {
+          "tip": "aviz_consiliu_legislativ",
+          "url": "https://www.cdep.ro/proiecte/2026/400/90/0/cl553.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/90/0/pvg553.pdf"
+        },
+        {
+          "tip": "sesizare",
+          "url": "https://www.cdep.ro/proiecte/2026/400/90/0/se553.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/90/0/as490.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/90/0/in553.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/400/90/0/nota490_2026.pdf"
+        },
+        {
+          "tip": "raport",
+          "url": "https://www.cdep.ro/comisii/invatamant/pdf/2026/rp490;1.pdf"
+        },
+        {
+          "tip": "forma_initiator",
+          "url": "https://www.cdep.ro/docs?2026/pl490_cd490_26.pdf"
+        },
+        {
+          "tip": "forma_initiator",
+          "url": "https://www.cdep.ro/docs?2026/pl490_pr490_26.pdf"
+        }
+      ],
+      "idp": "23386",
+      "camera": 2
+    },
+    {
+      "titlu": "PL-x nr. 502/2026",
+      "numar": 502,
+      "an": 2026,
+      "documente": [
+        {
+          "tip": "expunere_motive",
+          "url": "https://www.cdep.ro/proiecte/2026/500/00/2/em578.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/500/00/2/ces578.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/500/00/2/opcfisc578.pdf"
+        },
+        {
+          "tip": "aviz_consiliu_legislativ",
+          "url": "https://www.cdep.ro/proiecte/2026/500/00/2/cl578.pdf"
+        },
+        {
+          "tip": "sesizare",
+          "url": "https://www.cdep.ro/proiecte/2026/500/00/2/se578.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/500/00/2/as502.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/500/00/2/in578.pdf"
+        }
+      ],
+      "idp": "23415",
+      "camera": 2
+    },
+    {
+      "titlu": "PL-x nr. 504/2026",
+      "numar": 504,
+      "an": 2026,
+      "documente": [
+        {
+          "tip": "expunere_motive",
+          "url": "https://www.cdep.ro/proiecte/2026/500/00/4/em580.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/500/00/4/ces580.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/500/00/4/opcfisc580.pdf"
+        },
+        {
+          "tip": "aviz_consiliu_legislativ",
+          "url": "https://www.cdep.ro/proiecte/2026/500/00/4/cl580.pdf"
+        },
+        {
+          "tip": "sesizare",
+          "url": "https://www.cdep.ro/proiecte/2026/500/00/4/se580.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/500/00/4/as504.pdf"
+        },
+        {
+          "tip": "raport",
+          "url": "https://www.cdep.ro/comisii/mediu/pdf/2026/rp504.pdf"
+        },
+        {
+          "tip": "forma_initiator",
+          "url": "https://www.cdep.ro/docs?2026/pl504_cd504_26.pdf"
+        },
+        {
+          "tip": "forma_initiator",
+          "url": "https://www.cdep.ro/docs?2026/pl504_pr504_26.pdf"
+        },
+        {
+          "tip": "alt",
+          "url": "https://www.cdep.ro/proiecte/2026/500/00/4/pvg%20504_2026.pdf"
+        }
+      ],
+      "idp": "23419",
       "camera": 2
     }
   ]
